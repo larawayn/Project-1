@@ -141,6 +141,16 @@ Please visit the link [here](https://algotrading101.com/learn/yahoo-finance-api-
 ---
 ## Recommendations & Conclusions
 
+* Johnson & Johnson (JNJ) while very healthy in terms of presented metrics, may be price prohibitive to retail investors.
+
+* Pfizer Inc. (PFE) while growth prospects appear small, low entry price and high dividend yield may be more palatable for investors seeking cash flow from dividends. Current vaccine production does not appear to be priced in.
+
+    * Recommend deeper investigation into PFE financials.
+
+* Eli Lilly & Co (LLY) highest price per share and PB ratio compared to sector is quite high at ~37x vs ~7x. Market does expect higher growth from (LLY), but we feel this is overpriced into the stock.
+
+    * Recommend thorough review of M&A activity with any additional financial assessment.
+
 ---
 ## Resources & Acknowledgements
 
