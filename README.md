@@ -41,7 +41,7 @@ Please visit the link [here](https://algotrading101.com/learn/yahoo-finance-api-
 * CTLT - Catalent
 * PRGO - Perrigo
 
-![](Images/summary_table.png)
+![](output_data/sum_table.png)
 
 ---
 ## Market Capitalization
@@ -74,7 +74,7 @@ Please visit the link [here](https://algotrading101.com/learn/yahoo-finance-api-
 
 ### Price Snapshot by Company
 
-![](output_data/price_cap.png)
+![](output_data/price_comp.png)
 
 ---
 ## PE Ratio
@@ -107,10 +107,9 @@ Please visit the link [here](https://algotrading101.com/learn/yahoo-finance-api-
     * LLY: Highest Growth Potential
     * JNJ: Modest Growth Potential
     * PFE: Lowest Growth Potential
-
-![](output_data/PEG_cap.png)
-
 * PRGO, VTRS, & ABBV did not report PEG at the time of this analysis.
+
+![](output_data/peg_cap.png)
 
 ---
 ## PB Ratio
@@ -150,6 +149,7 @@ Please visit the link [here](https://algotrading101.com/learn/yahoo-finance-api-
 * Eli Lilly & Co (LLY) highest price per share and PB ratio compared to sector is quite high at ~37x vs ~7x. Market does expect higher growth from (LLY), but we feel this is overpriced into the stock.
 
     * Recommend thorough review of M&A activity with any additional financial assessment.
+
 
 ---
 ## Resources & Acknowledgements
